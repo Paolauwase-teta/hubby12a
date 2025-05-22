@@ -50,6 +50,21 @@ With each project, I aim to improve usability, enhance user experience, and writ
 
 ---
 
+---
+
+### 🧩 Featured Projects
+
+Here are some of the repositories I've been working on recently:
+
+- 🔹 [REACT-REALESTATE](https://github.com/hubby12a/REACT-REALESTATE): A modern real estate frontend built with React and Tailwind.
+- 🔹 [waterWallet-frotend](https://github.com/hubby12a/waterWallet-frotend): UI for water-based crypto wallet app.
+- 🔹 [tailwindrepo](https://github.com/hubby12a/tailwindrepo): Tailwind CSS practice and component library.
+- 🔹 [README.MD](https://github.com/hubby12a/README.MD): GitHub profile readme playground.
+
+---
+
+
+
 ⚡ **Fun Fact**
 > I turn coffee ☕ into code 💻 and pixels into beauty 🎨.  
 I believe good design is invisible — and great frontend work brings it to life.
