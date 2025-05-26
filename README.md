@@ -55,7 +55,7 @@
 
 ## 🌐 Let's Connect
 
-- 📧 Email: **uwasetetapaola@example.com** (replace with your real email)
+- 📧 Email: **paolauwase555@example.com** (replace with your real email)
 - 🖥️ Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
