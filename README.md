@@ -99,4 +99,7 @@ This is more than just a certificate — it’s the story of stepping out of my 
 Earning this certificate reinforced a key lesson: growth begins where comfort ends. By pushing myself into new territory, I not only gained technical expertise but also developed resilience, adaptability, and a problem-solving mindset.
 🚀 This certification is not the end, but the launchpad for bigger challenges and opportunities. I’m eager to apply these skills in real-world projects, contribute to meaningful solutions, and keep learning along the way.
 ✨ Here’s to continuous growth, curiosity, and the courage to always take the next step outside the comfort zone.
-<img width="819" height="777" alt="Screenshot 2025-08-27 143055" src="https://github.com/user-attachments/assets/65943ba5-9689-4506-94f4-d794c1464697" />
+
+
+<a><img width="819" height="777" alt="Screenshot 2025-08-27 143055" src="https://github.com/user-attachments/assets/65943ba5-9689-4506-94f4-d794c1464697" /></a>
+
